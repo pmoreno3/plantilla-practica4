@@ -1,6 +1,6 @@
 # Task – mdBook
 
-## Instruccions
+## Instructions
 
 Install mdBook, create a mdBook, publish that with GitHub Pages.
 You can choose the topic than you want.
